@@ -1,1 +1,2 @@
-FROM centos:8
+FROM almalinux:8
+RUN apt install nginx -y 
